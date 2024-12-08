@@ -1,6 +1,10 @@
 # CircuitBuilder
 
-CircuitBuilder is a graphical drag-and-drop builder and simulator of digital logic circuits. Currently, the following logic gate types are supported:
+CircuitBuilder is a graphical drag-and-drop builder and simulator of digital logic circuits. 
+
+![<Example screenshot of usage>](https://github.com/gormae1/CircuitBuilder/blob/main/usage_screenshot.png)
+
+Currently, the following logic gate types are supported:
 - OR
 - AND
 - XOR
